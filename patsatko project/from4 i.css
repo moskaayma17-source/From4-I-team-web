@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(79, 0, 143);
+    font-family:Cascadia Mono;
+    text-align: center;
+    font-size: 90px;
+    
+}
+.tgbtn{
+    background-color: rgb(92, 0, 128);
+    color: white;             
+    padding: 50px 70px;        
+    font-size: 24px;           
+    border: none;
+    border-radius: 0px;       
+    cursor: pointer; 
+    font-family: 'Press Start 2P', monospace;
+    box-shadow: 4px 4px 0 black;
+}
+.tgbtn:hover{
+    background-color: rgb(44, 0, 58);
+    box-shadow: 2px 2px 0 black;
+    transform: translate(2px, 2px);
+}
+.ttbtn{
+    background-color: rgb(92, 0, 128);
+    color: white;             
+    padding: 50px 70px;        
+    font-size: 24px;           
+    border: none;
+    border-radius: 0px;       
+    cursor: pointer; 
+    font-family: 'Press Start 2P', monospace;
+    box-shadow: 4px 4px 0 black;
+}
+.ttbtn:hover{
+    background-color: rgb(44, 0, 58);
+    box-shadow: 2px 2px 0 black;
+    transform: translate(2px, 2px);
+}
